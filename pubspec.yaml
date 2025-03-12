@@ -1,5 +1,5 @@
 name: native_3d_viewer
-description: "Native 3D model viewer app using model_viewer_plus."
+description: "Native 3D model viewer app using webview to display 3D models."
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_3d_controller: ^2.1.0
+  webview_flutter: ^4.7.0
 
 dev_dependencies:
   flutter_test:
@@ -18,5 +18,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-    - assets/3d/arli.glb
