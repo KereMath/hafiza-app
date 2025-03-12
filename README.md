@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # native_3d_viewer
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# hafiza-app
+>>>>>>> f5eb09fa82cf67e27c3d4be6db68e4cd3be9011c
