@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     
     <application
-        android:label="Yalı Camii 3D"
+        android:label="Hafıza İzmir"
         android:name="${applicationName}"
         android:usesCleartextTraffic="true">
         android:icon="@mipmap/ic_launcher">
